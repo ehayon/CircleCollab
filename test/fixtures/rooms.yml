@@ -1,0 +1,17 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  name: MyString
+  creator: 1
+  members: MyText
+  turn: 1
+  capacity: 1
+  password: MyString
+
+two:
+  name: MyString
+  creator: 1
+  members: MyText
+  turn: 1
+  capacity: 1
+  password: MyString
